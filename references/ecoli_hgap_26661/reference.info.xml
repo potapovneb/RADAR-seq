@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<reference_info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.3.0" last_modified="2018-01-23T12:14:40-0500" id="ecoli_hgap_26661" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+    <organism>
+        <name>E.coli</name>
+        <ploidy>haploid</ploidy>
+    </organism>
+    <reference>
+        <description>ecoli_hgap_26661</description>
+        <file format="text/fasta">./sequence/ecoli_hgap_26661.fasta</file>
+        <index_file type="indexer">./sequence/ecoli_hgap_26661.fasta.index</index_file>
+        <index_file type="sawriter">./sequence/ecoli_hgap_26661.fasta.sa</index_file>
+        <index_file type="sam_idx">./sequence/ecoli_hgap_26661.fasta.fai</index_file>
+        <max_contig_length>4582842</max_contig_length>
+        <num_contigs>1</num_contigs>
+        <type>sample</type>
+    </reference>
+    <contigs>
+        <contig length="4582842" id="ref000001" displayName="ecoli_hgap_26661">
+            <digest type="md5">90ebfe9eb65c582f4ec0b54588db42f8</digest>
+            <header>ecoli_hgap_26661</header>
+        </contig>
+    </contigs>
+</reference_info>

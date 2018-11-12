@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<reference_info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.3.0" last_modified="2015-11-10T15:56:17-0500" id="TKO" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+    <organism>
+        <name>Thermococcus_kodakarensis</name>
+        <ploidy>haploid</ploidy>
+    </organism>
+    <reference>
+        <description>TKO</description>
+        <file format="text/fasta">./sequence/TKO.fasta</file>
+        <index_file type="indexer">./sequence/TKO.fasta.index</index_file>
+        <index_file type="sawriter">./sequence/TKO.fasta.sa</index_file>
+        <index_file type="sam_idx">./sequence/TKO.fasta.fai</index_file>
+        <max_contig_length>2088737</max_contig_length>
+        <num_contigs>1</num_contigs>
+        <type>sample</type>
+    </reference>
+    <contigs>
+        <contig length="2088737" id="ref000001" displayName="Tko_genome">
+            <digest type="md5">75573b300c97a548672c5938f5a530de</digest>
+            <header>Tko_genome</header>
+        </contig>
+    </contigs>
+</reference_info>

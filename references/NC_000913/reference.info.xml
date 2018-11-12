@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<reference_info xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.3.0" last_modified="2017-09-08T15:33:43-0400" id="NC_000913" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+    <organism>
+        <name>E.coli</name>
+        <ploidy>haploid</ploidy>
+    </organism>
+    <reference>
+        <description>NC_000913</description>
+        <file format="text/fasta">./sequence/NC_000913.fasta</file>
+        <index_file type="indexer">./sequence/NC_000913.fasta.index</index_file>
+        <index_file type="sawriter">./sequence/NC_000913.fasta.sa</index_file>
+        <index_file type="sam_idx">./sequence/NC_000913.fasta.fai</index_file>
+        <max_contig_length>4641652</max_contig_length>
+        <num_contigs>1</num_contigs>
+        <type>sample</type>
+    </reference>
+    <contigs>
+        <contig length="4641652" id="ref000001" displayName="NC_000913">
+            <digest type="md5">482a2b04485ec8c4b5f4eaba2c2002da</digest>
+            <header>NC_000913</header>
+        </contig>
+    </contigs>
+</reference_info>
